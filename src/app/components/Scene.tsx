@@ -26,11 +26,11 @@ const objsTable: IObjTable[] = [
   },
   {
     url: "D_08.obj",
-    count: 2000,
+    count: 3000,
   },
   {
     url: "D_16.obj",
-    count: 2000,
+    count: 500,
   },
   {
     url: "goldfish3.obj",
@@ -38,11 +38,11 @@ const objsTable: IObjTable[] = [
   },
   {
     url: "H_07.obj",
-    count: 2000,
+    count: 1000,
   },
   {
     url: "skull2.obj",
-    count: 2000,
+    count: 1000,
   },
 ];
 
